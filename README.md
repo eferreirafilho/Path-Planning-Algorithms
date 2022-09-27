@@ -1,18 +1,26 @@
-# Path-Planning-Algorithms
-Path Planning implementations of some Path Planning algorithms
+## Path-Planning-Algorithms
+Path Planning implementations of some state-of-the-art Path Planning algorithms published up to 2016.
 
-CHOMP
+# CHOMP
+Covariant Hamiltonian Optimization for Motion Planning
 
-DUBINS
+# DUBINS
+Paths for Dubins vehicles
 
-Informed RRT
+# Informed RRT
+Optimal Sampling-based Path Planning Focused via
+Direct Sampling of an Admissible Ellipsoidal Heuristic
 
-PRM
+# PRM
+Probabilistic Roadmap
 
-PRM*
+# PRM*
+Optimal Probabilistic Roadmap
 
-RRG
+# RRG
+Rapidly-exploring Random Graph
 
-RRT*
+#RRT*
+Optimal Rapidly-Exploring Random Trees
 
 ![image](https://user-images.githubusercontent.com/92797165/192588034-2545c9fc-385c-45ae-b55b-20f40cb0eedd.png)(https://www.youtube.com/watch?v=-ZS7VJuk-Xw "Path Planning Algorithms")
