@@ -1,5 +1,5 @@
 ## Path-Planning-Algorithms
-Path Planning implementations of some state-of-the-art Path Planning algorithms published up to 2016.
+Matlab implementations of some state-of-the-art Path Planning algorithms published up to 2016.
 
 # CHOMP
 Covariant Hamiltonian Optimization for Motion Planning
